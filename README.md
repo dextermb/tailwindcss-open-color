@@ -31,5 +31,5 @@ module.exports = {
 ```
 
 
-[tailwindcss]: tailwindcss.com
-[open-color]: yeun.github.io/open-color
+[tailwindcss]: https://tailwindcss.com
+[open-color]: https://yeun.github.io/open-color
