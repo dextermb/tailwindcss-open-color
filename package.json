@@ -1,6 +1,6 @@
 {
   "name": "tw-oc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tailwindcss package that overrides the default colors to include the Open Color colors",
   "main": "index.js",
   "repository": "git@github.com:dextermb/tailwindcss-open-color",

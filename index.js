@@ -13,7 +13,7 @@ Object.entries(colors).forEach(([color, value]) => {
   formatted[color] = {}
 
   value.forEach((shade, index) => (
-    formatted[color][`${index + 1}`.padEnd(3, '0')] = shade
+    formatted[color][index !== (value.length - 1) ? `${index + 1}`.padEnd(3, '0') : 1000] = shade
   ))
 })
 
